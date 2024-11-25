@@ -4,13 +4,20 @@
 }
 nav {
     background-color: crimson;
-    height: 125vh;
-    float: left;
+    height: auto;
+    width: 100%;
+    position: fixed;
+    top: 0; 
+    z-index: 1000;
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center; 
+
 }
 li a {
     background-color: white;
@@ -55,7 +62,7 @@ li a:hover {
 }
 .AboutContent {
     text-align: center;
-    margin: 50px auto;
-    width: 80%;
+    margin: 100px auto;
+    width: 70%;
     align-items: center;
 }
