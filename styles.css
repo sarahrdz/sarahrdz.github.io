@@ -48,3 +48,6 @@ li a {
 .card-body{
     padding: 10px;
 }
+li a:hover {
+    background-color: dimgrey;
+}
