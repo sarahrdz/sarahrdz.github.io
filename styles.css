@@ -34,7 +34,6 @@ li a {
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border: 1px solid dashed;
-    justify-content: center; 
 }
 .Homecard img{
     width: 100%;
@@ -46,5 +45,5 @@ li a {
     padding: 10px;
 }
 li a:hover {
-    background-color: dimgrey;
+    background-color: grey;
 }
