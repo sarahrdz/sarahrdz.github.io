@@ -1,0 +1,24 @@
+﻿body
+{
+     
+}
+nav {
+    background-color: crimson;
+    height: 125vh;
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li a {
+    background-color: white;
+    padding: 1em 1.53em;
+    display: block;
+    margin: 5px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: crimson;
+}
