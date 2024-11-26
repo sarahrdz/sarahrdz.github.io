@@ -30,14 +30,13 @@ li a {
     text-decoration: none;
     color: crimson;
 }
-.HomeBody{
+/*.HomeBody{
     display: flex; 
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 0; 
-    
-}
+    margin: 0;     
+}*/
 
 .HomeContent {
     text-align: center;
