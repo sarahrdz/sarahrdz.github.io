@@ -97,10 +97,19 @@ li a:hover {
     padding: 16px;
     margin: 10px;
 }
+.carousel-container{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0; 
+}
+.carousel{
+    width: 50%;
+    height: 50%;
+}
 .carousel-inner img{
-    height: 300px; 
-    width: auto; 
-    object-fit: cover; 
-    display : block;
-    margin: 0 auto;
+    height: 100%; 
+    width: 100%; 
+    object-fit: cover;     
 }
