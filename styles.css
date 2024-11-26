@@ -1,11 +1,9 @@
 ﻿body
 {
-    margin: 0;
-    height: 100vh;
-    display: flex; 
+
     justify-content:center; 
     align-items: center; 
-    font-family: 'Times New Roman', Times, serif;
+  
 
 }
 nav {
