@@ -72,20 +72,6 @@ li a:hover {
     width: 70%;
     align-items: center;
 }
-.ProCard{
-
-    padding: 20px; 
-    margin: 20px;
-    border-radius: 20px;
-    background-color: white;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border: 1px solid dashed;
-    width: fit-content;
-    display: flex;
-    flex-direction: column; 
-    justify-content: center; 
-    align-items: center; 
-}
 .ProCard1 {
     padding: 20px;
     margin: 20px;
