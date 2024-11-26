@@ -1,28 +1,25 @@
-﻿body
-{
-
-    justify-content:center; 
-    align-items: center; 
-  
-
+﻿body {
+    justify-content: center;
 }
+
 nav {
     background-color: crimson;
     height: auto;
     width: 100%;
     position: fixed;
-    top: 0; 
+    top: 0;
     z-index: 1000;
 }
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
-    align-content: center; 
-
+    align-content: center;
 }
+
 li a {
     background-color: white;
     padding: 1em 1.53em;
@@ -33,18 +30,16 @@ li a {
     text-decoration: none;
     color: crimson;
 }
+
 .HomeContent {
     text-align: center;
-    display: flex;
-    flex-direction: column; 
-    justify-content: center;
-    align-content: center; 
-    width: 100%; 
-    padding: 20px; 
-   
+    margin: 100px auto;
+    width: 80%;
+    align-items: center;
 }
+
 .HomeCard {
-    padding: 20px; 
+    padding: 20px;
     margin: 20px;
     border-radius: 20px;
     background-color: white;
@@ -52,62 +47,75 @@ li a {
     border: 1px solid dashed;
     width: fit-content;
     display: flex;
-    flex-direction: column; 
-    justify-content: center; 
-    align-items: center; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
-.HomeCard img{
-    width: 100%;
-    height: auto; 
-    border-radius: 50%; 
-    margin-bottom: 15px;
-}
-.card-body{
+
+    .Homecard img {
+        width: 100%;
+        height: auto;
+        border-radius: 50%;
+        margin-bottom: 15px;
+    }
+
+.card-body {
     padding: 10px;
 }
+
 li a:hover {
     background-color: grey;
 }
+
 .AboutContent {
     text-align: center;
     margin: 100px auto;
     width: 70%;
     align-items: center;
 }
+
 .ProjectContent {
     text-align: center;
     margin: 100px auto;
     width: 70%;
     align-items: center;
 }
+
 .ProCard {
     display: flex;
-    justify-content: center; 
+    justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
 }
-.card{
+
+.card {
     background-color: crimson;
     border: 1px solid;
     border-radius: 8px;
     padding: 16px;
 }
+
 .SkillContent {
     text-align: center;
     margin: 100px auto;
     width: 70%;
     align-items: center;
 }
-.list-group-item{
+
+.list-group-item {
     background-color: crimson;
     border: 1px solid;
     border-radius: 8px;
     padding: 16px;
     margin: 10px;
 }
-.card-group{
-    text-align: center; 
+
+.card-group {
+    text-align: center;
 }
-.ProCard{
-    text-align: center; 
+
+.ProCard {
+    text-align: center;
 }
+
+
