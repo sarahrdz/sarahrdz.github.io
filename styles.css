@@ -84,3 +84,9 @@ li a:hover {
     border-radius: 8px;
     padding: 16px;
 }
+.SkillContent {
+    text-align: center;
+    margin: 100px auto;
+    width: 70%;
+    align-items: center;
+}
