@@ -92,7 +92,6 @@ li a:hover {
 }
 .list-group-item{
     background-color: crimson;
-    color: white;
     border: 1px solid;
     border-radius: 8px;
     padding: 16px;
