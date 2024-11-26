@@ -40,8 +40,7 @@ li a {
 .HomePara{
     width: 60%; 
     text-align: center;
-    align-items: center; 
-    margin: 100px auto; 
+    align-items: center;
 }
 .card-body {
     padding: 10px;
