@@ -113,3 +113,6 @@ li a:hover {
     width: 100%; 
     object-fit: cover;     
 }
+.card-group{
+    text-align: center; 
+}
