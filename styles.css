@@ -31,9 +31,13 @@ li a {
 }
 .HomeContent {
     text-align: center;
-    margin: 100px auto;
-    width: 80%;
-    align-items: center; 
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-content: center; 
+    width: 100%; 
+    padding: 20px; 
+   
 }
 .HomeCard {
     padding: 20px; 
@@ -48,7 +52,7 @@ li a {
     justify-content: center; 
     align-items: center; 
 }
-.Homecard img{
+.HomeCard img{
     width: 100%;
     height: auto; 
     border-radius: 50%; 
