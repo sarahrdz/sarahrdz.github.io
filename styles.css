@@ -97,4 +97,10 @@ li a:hover {
     padding: 16px;
     margin: 10px;
 }
-
+.carousel-inner img{
+    height: 300px; 
+    width: auto; 
+    object-fit: cover; 
+    display : block;
+    margin: 0 auto;
+}
