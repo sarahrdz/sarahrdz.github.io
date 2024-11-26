@@ -71,14 +71,6 @@ li a:hover {
     width: 70%;
     align-items: center;
 }
-.AboutCard {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    text-align: center;
-}
-
 .ProjectContent {
     text-align: center;
     margin: 100px auto;
