@@ -51,14 +51,12 @@ li a {
     justify-content: center;
     align-items: center;
 }
-
-    .Homecard img {
-        width: 100%;
-        height: auto;
-        border-radius: 50%;
-        margin-bottom: 15px;
-    }
-
+.HomeCard img{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
 .card-body {
     padding: 10px;
 }
@@ -73,6 +71,13 @@ li a:hover {
     width: 70%;
     align-items: center;
 }
+.AboutCard {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    text-align: center;
+}
 
 .ProjectContent {
     text-align: center;
@@ -86,6 +91,7 @@ li a:hover {
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 .card {
@@ -114,8 +120,6 @@ li a:hover {
     text-align: center;
 }
 
-.ProCard {
-    text-align: center;
-}
+
 
 
